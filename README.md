@@ -6,7 +6,7 @@ In this project, the task is to predict department-wide sales for 45 stores, loc
 
 - [Analysis](#analysis)
 
-- [Data]()
+- [Data](https://github.com/VaishnaviMane17/Retail-Demand-Forecasting/tree/main/Data)
 
 - [Report]()
 
